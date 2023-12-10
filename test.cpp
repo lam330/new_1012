@@ -1,4 +1,3 @@
 edit_firstLine
 secondLine
-
-4th line
+3rd line
